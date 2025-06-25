@@ -26,6 +26,7 @@ header p{
     margin-bottom: 30px;
     font-size:medium;
     font-weight: lighter;
+ text-decoration:underline; 
     color: rgb(125, 125, 125);
 }
 
